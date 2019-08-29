@@ -5,7 +5,6 @@ def meal_choice(veg1, veg2, protein ="meat")
   puts str
   return str
 end
-meal_choice("Kale", "beans")
-meal_choice("Kale", "beans","tofurkey")
+
 
 
